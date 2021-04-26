@@ -2,7 +2,7 @@
 <h3 align="center">Web developer passionate about technology</h3>
  
 <div style="display: flex;flex-wrap: wrap">
-<div>
+<div style="width: 60%;">
   
   - 🌱 I’m currently learning: <b>React JS Ecosystem</b>
 
@@ -21,7 +21,7 @@
 
 </div>
   
-<img src="./github/img.png" height="300">
+<img src="./github/img.svg" style="width: 35%;">
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
