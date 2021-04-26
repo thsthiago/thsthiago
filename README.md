@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thiago</h1>
 <h3 align="center">Web developer passionate about technology</h3>
 
-<img src="./github/img.svG" align="right" width="40%">
+<img src="./github/img.svg" align="right" width="40%">
 </div>
 
 🌱 I’m currently learning: <b>React JS Ecosystem</b>
