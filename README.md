@@ -8,8 +8,6 @@
 <br>
 👨‍💻 All of my projects are available at: <b>[https://thiagocabral.vercel.app/](https://thiagocabral.vercel.app/)</b>
 <br>
-📫 How to reach me: <b>thiagocabral477@gmail.com</b>
-<br>
 ⚡ Fun fact: <b>Gamer, who loves coffee and a lot of music.</b>
 
 </div>
