@@ -24,4 +24,5 @@ Docker · Redis · Vercel · JWT · Git/GitHub · Figma
 
 📫 Email: **thiagocabral477@gmail.com**  
 💼 LinkedIn: **[in/thsthiago-cabral](https://www.linkedin.com/in/thsthiago-cabral/)**  
-🚀 Portfolio: **[https://thiagocabral.vercel.app](https://thiagocabral.vercel.app)**  
+🚀 Portfolio: **[https://portfolio-rho-jet-99.vercel.app/](https://portfolio-rho-jet-99.vercel.app/)**
+
